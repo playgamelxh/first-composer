@@ -1,0 +1,16 @@
+{
+    "name": "lvxiaohu/first-composer",
+    "authors": [
+        {
+            "name": "lvxiaohu",
+            "email": "330318747@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/demo"
+        }
+    }
+}
+
