@@ -8,6 +8,6 @@ class Demo
 
     public function index()
     {
-
+        echo "index";
     }
 }
