@@ -6,12 +6,13 @@
             "email": "330318747@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "cnxzcxy/demo-cxy": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Demo\\": "src/demo"
         }
     },
-    "version" : "1.0.1"
+    "version": "1.0.1"
 }
-
