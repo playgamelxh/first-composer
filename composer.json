@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "cnxzcxy/demo-cxy": "dev-master"
+
     },
     "autoload": {
         "psr-4": {
