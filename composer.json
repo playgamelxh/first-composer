@@ -11,6 +11,7 @@
         "psr-4": {
             "Demo\\": "src/demo"
         }
-    }
+    },
+    "version" : "1.0.1"
 }
 
